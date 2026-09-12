@@ -72,3 +72,33 @@ python ps2exe.py "whoami" --encode-only
 
 - Python 3.x
 - Windows with .NET Framework (csc.exe)
+
+---
+
+## Support
+
+This project is free and open source. If you find it useful, consider supporting continued development:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow.svg)](https://buymeacoffee.com/rainfantry)
+
+We work tirelessly to build tools that help people get shit done - no paywalls, no subscriptions, just code that works. Your support helps keep it that way.
+
+### Wall of Legends
+
+> *"I want to go back to the fundamentals, build things myself, break things in a lab, understand them from first principles... What you've shared is worth far more than the amount I'm sending."*
+> 
+> — **@ismailjaweedahmed**, 10-year cybersecurity veteran
+
+> *"For exposing pedo scum. Fan of your work, keep going."*
+> 
+> — **hxpnctrpstr**
+
+> *"For the children.. and also teach me c#nt"*
+> 
+> — **Qwenobi**
+
+---
+
+## Author
+
+**George Wu** - [@rainfantry](https://github.com/rainfantry)
