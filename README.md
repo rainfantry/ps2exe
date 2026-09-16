@@ -76,7 +76,7 @@ python ps2exe.py "whoami" --encode-only
 ---
 
 ## Support
-
+support my fan's work: https://github.com/GCastle-MTE/SentinelFusion
 This project is free and open source. If you find it useful, consider supporting continued development:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow.svg)](https://buymeacoffee.com/rainfantry)
